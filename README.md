@@ -7,7 +7,6 @@ python main.py
 
 ### LLM-Based Paraphraser
 ``` https://huggingface.co/tuner007/pegasus_paraphrase ```
-A transformer encoder-decoder based model developed by Google. 
 
 ### Custom-Based Paraphraser
 ### Back Translation
