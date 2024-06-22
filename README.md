@@ -1,8 +1,10 @@
 # Custom-Paraphrase-Generator
 
 ### Run: 
+```
 python install -r requirements.txt
 python main.py
+```
 
 
 ### LLM-Based Paraphraser
