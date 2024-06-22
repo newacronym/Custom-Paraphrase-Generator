@@ -10,7 +10,7 @@ python main.py
 ### LLM-Based Paraphraser
 ``` https://huggingface.co/tuner007/pegasus_paraphrase ```
 
-### Custom-Based Paraphraser
+### Custom Paraphraser
 ### Back Translation
 It refers to translating a piece of text into another language (usually referred to as the pivot language) and then BACK to the source language. The reason this can work for paraphrasing is due to how different languages are structured. They frequently have different grammatical layouts and combine multiple words from the source language into one word or vice versa. This allows the back-translated text to have similar semantics while offering a different surface structure.
 
